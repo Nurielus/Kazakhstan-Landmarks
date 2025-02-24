@@ -12,19 +12,12 @@
     </header>
     <nav>
         <ul>
-            <li><a href="#baikonur">Baikonur</a></li>
             <li><a href="#charyn">Charyn Canyon</a></li>
             <li><a href="#almaty">Medeu</a></li>
             <li><a href="#burabay">Burabay</a></li>
-            <li><a href="#mausoleum">Mausoleum of Khoja Ahmed Yasawi</a></li>
         </ul>
     </nav>
     <main>
-        <section id="baikonur">
-            <h2>Baikonur Cosmodrome</h2>
-            <img src="baikonur.jpg" alt="Baikonur Cosmodrome">
-            <p>Baikonur is the world's first and largest spaceport, from which the first artificial satellite and Yuri Gagarin were launched.</p>
-        </section>
         <section id="charyn">
             <h2>Charyn Canyon</h2>
             <img src="charyn.jpg" alt="Charyn Canyon">
@@ -39,11 +32,6 @@
             <h2>Burabay National Park</h2>
             <img src="burabay.jpg" alt="Burabay National Park">
             <p>Burabay is a picturesque natural park with forests, mountains, and crystal-clear lakes, making it a popular destination for tourism and recreation.</p>
-        </section>
-        <section id="mausoleum">
-            <h2>Mausoleum of Khoja Ahmed Yasawi</h2>
-            <img src="mausoleum.jpg" alt="Mausoleum of Khoja Ahmed Yasawi">
-            <p>This historic monument, built in the 14th century in Turkestan, is a UNESCO World Heritage Site.</p>
         </section>
     </main>
     <footer>
