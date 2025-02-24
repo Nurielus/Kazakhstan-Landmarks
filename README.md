@@ -12,9 +12,9 @@
     </header>
     <nav>
         <ul>
-            <li><a href="#charyn">Charyn Canyon</a></li>
-            <li><a href="#almaty">Medeu</a></li>
-            <li><a href="#burabay">Burabay</a></li>
+            <li><a href="#charyn.html">Charyn Canyon</a></li>
+            <li><a href="#almaty.html">Medeu</a></li>
+            <li><a href="#burabay.html">Burabay</a></li>
         </ul>
     </nav>
     <main>
